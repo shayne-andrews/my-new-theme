@@ -20,9 +20,9 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Lagrange'
-description:	       'a minimalist Jekyll theme'
-author:              'Paul Le'
+title:		           'Shayne Andrews'
+description:	       'my personal blog created in the UBC MDS program'
+author:              'Shayne Andrews'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
