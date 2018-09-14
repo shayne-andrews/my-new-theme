@@ -19,3 +19,5 @@ However, I have been surprised by the communications course which is part of blo
 > The writer and reader are equals. The writer gives the reader credit for understanding that the world is complicated, and doesn’t apologize constantly. The reader trusts the writer to make sense of an uncertain world.
 
 One week down, only 42 weeks to go until [capstone projects](https://ubc-mds.github.io/capstone/about/) are complete and I'm ready for graduation. Bring it on!
+
+Hi Shayne, if you are seeing this then my pull requested must have worked out. I like that you got the countdown to the end of the program going already, time is going to start to just fly by as we get into more advanced concepts in the coming blocks!
